@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "214742550638",
+    "project_id": "presentfunding-7b11b",
+    "storage_bucket": "presentfunding-7b11b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214742550638:android:a113dffbb1d292388fbe7f",
+        "android_client_info": {
+          "package_name": "com.example.presentfunding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214742550638-8dqdvpetm132lm74gnon1a0tsa9vaklm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlnxBDE1u47O8ubHCnJVMBKQUgNA69ksI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214742550638-8dqdvpetm132lm74gnon1a0tsa9vaklm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
